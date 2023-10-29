@@ -33,7 +33,7 @@ export default function Navbar() {
 
   return (
     <div style={navStyle}>
-      <div style={titleStyle}>Wanchain-x-CrossChain</div>
+      <div style={titleStyle}>DecenText</div>
       <button style={buttonStyle} >
         Connect
       </button>
